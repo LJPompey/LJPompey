@@ -1,4 +1,4 @@
-<h1>Hi, I'm La'Mont (LJ)! <br/><a href="https://www.linkedin.com/in/lamontpompeyjr/">Aspiring Cybersecurity Analyst</a></h1>
+<h1>Hi, I'm La'Mont (LJ)! <br/><a href="https://www.linkedin.com/in/lamontpompeyjr/">Early Career I.T. Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
