@@ -90,3 +90,7 @@ My **core** objective: **To design and deploy the critical telemetry, alerting a
 ![Nessus](https://img.shields.io/badge/Nessus-003B5C)
 ![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61)
+
+---
+
+### 🖥️ Featured Cybersecurity & AI Security Projects
