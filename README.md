@@ -1,3 +1,6 @@
+'''html
+<div align="center">
+  
 # Hi, I'm La'Mont Pompey Jr. 👋🏾
 
 **Junior Cybersecurity Analyst | Security Automation & CTI | Network Defense | Engineering Cloud-Based SOC Workflows & CI/CD Pipelines**
@@ -6,6 +9,7 @@ Early-career cybersecurity professional specializing in Blue Team operations, th
 
 🎯 **Open to: Junior SOC Analyst, Security Analyst, Security Engineering, IT Support Specialist, and IT Technician opportunities.**
 
+</div>
 ---
 
 ### 👨🏾‍💻 About Me
