@@ -9,6 +9,7 @@ Early-career cybersecurity professional specializing in Blue Team operations, th
 🎯 **Open to: Junior SOC Analyst, Security Analyst, Security Engineering, IT Support Specialist, and IT Technician opportunities.**
 
 </div>
+
 ---
 
 ### 👨🏾‍💻 About Me
