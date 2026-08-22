@@ -30,7 +30,7 @@ My **core** objective: **To design and deploy the critical telemetry, alerting a
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LJ_Pompey-0077B5?logo=linkedin&logoColor=white)](Insert_Your_LinkedIn_URL_Here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LJ_Pompey-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamontpompeyjr/)
 <br>
 [![Email](https://img.shields.io/badge/Email-pompey.lamont01@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:pompey.lamont01@gmail.com)
 
