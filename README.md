@@ -108,4 +108,4 @@ The project focuses on Infrastructure & Identity Management, Security Deployment
 
 **Tech Stack:** VMware Workstation Pro, Windows Server, Ubuntu Linux, Wazuh (SIEM), Security Onion, Kali Linux, Tenable Nessus, MailHog
 
-🔗 **Repository**: 
+🔗 **Repository**: [View Project X: Enterprise Network Home Lab](https://github.com/LJPompey/Project-X-Enterprise-Network-Home-Lab)
