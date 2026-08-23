@@ -98,7 +98,7 @@ My **core** objective: **To design and deploy the critical telemetry, alerting a
 ### 🖥️ Featured Cybersecurity & AI Security Projects
 
 ### 1. 💻 Project X: Enterprise Network Simulation & Threat Hunting
- End-to-End AD Infrastructure, SIEM Deployment and Incident Response
+ **End-to-End AD Infrastructure, SIEM Deployment and Incident Response**
 
 "Project X" is a comprehensive, virtualized enterprise environment that I architected to simulate real-world IT infrastructure, execute advanced cyberattacks, and perform live incident response. 
 
