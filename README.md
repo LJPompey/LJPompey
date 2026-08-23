@@ -34,7 +34,7 @@ My **core** objective: **To design and deploy the critical telemetry, alerting a
 <br>
 [![Email](https://img.shields.io/badge/Email-pompey.lamont01@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:pompey.lamont01@gmail.com)
 <br>
-[![Medium](https://img.shields.io/badge/Medium-Technical_Documentation-12100E?logo=medium&logoColor=white)](https://medium.com/@pompey.lamont01)
+[![Medium](https://img.shields.io/badge/Medium-TechnologySuperior-12100E?logo=medium&logoColor=white)](https://medium.com/@pompey.lamont01)
 
 ---
 
