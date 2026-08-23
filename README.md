@@ -94,3 +94,16 @@ My **core** objective: **To design and deploy the critical telemetry, alerting a
 ---
 
 ### 🖥️ Featured Cybersecurity & AI Security Projects
+
+1. 💻 Project X: Enterprise Network Simulation & Threat Hunting
+### End-to-End AD Infrastructure, SIEM Deployment and Incident Response
+
+"Project X" is a comprehensive, virtualized enterprise environment that I architected to simulate real-world IT infrastructure, execute advanced cyberattacks, and perform live incident response. 
+
+The project focuses on Infrastructure & Identity Management, Security Deployment & Baseline, Offensive Security/Red Team Operations, and Incident Response/Blue Team Defense.
+
+**Key Areas:** Enterprise Virtualization, Active Directory & IAM, SIEM Deployment, Red Team Operations (TTPs), Blue Team Threat Hunting, Incident Response
+
+**Tech Stack:** VMware Workstation Pro, Windows Server, Ubuntu Linux, Wazuh (SIEM), Security Onion, Kali Linux, Tenable Nessus, MailHog
+
+🔗 **Repository**: 
