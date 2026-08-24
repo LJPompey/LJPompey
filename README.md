@@ -109,3 +109,16 @@ The project focuses on Infrastructure & Identity Management, Security Deployment
 **Tech Stack:** VMware Workstation Pro, Windows Server, Ubuntu Linux, Wazuh (SIEM), Security Onion, Kali Linux, Tenable Nessus, MailHog
 
 🔗 **Repository**: [View Project X: Enterprise Network Home Lab](https://github.com/LJPompey/Project-X-Enterprise-Network-Home-Lab)
+
+### 2. 🦠 Real-World Malware Remediation & Incident Response
+**Live-Fire InfoStealer Trojan Triage, Containment, and Eradication**
+
+This repository documents a live-fire incident response engagement involving the containment and eradication of an InfoStealer Trojan on a compromised Windows endpoint. 
+
+The project focuses on rapid network isolation, identity protection, manual threat hunting, dual-engine payload eradication, and core system restoration using native Windows command-line tools.
+
+**Key Areas:** Incident Response, Malware Analysis, Threat Hunting, Identity & Access Management (IAM), System Hardening
+
+**Tech Stack:** Windows Resource Protection (WRP/SFC), Command Line (CLI), Malwarebytes, Kaspersky, Windows OS
+
+🔗 **Repository**: [View Real-World Malware Remediation](https://github.com/LJPompey/Real-World-Malware-Remediation-Incident-Response)
