@@ -2,7 +2,7 @@
   
 # Hi, I'm La'Mont Pompey Jr. 👋🏾
 
-**Junior Cybersecurity Analyst | Security Automation & CTI | Network Defense | Engineering Cloud-Based SOC Workflows & CI/CD Pipelines**
+**Customer Service Associate @Wawa | Security Automation & CTI | Network Defense | Engineering Cloud-Based SOC Workflows & CI/CD Pipelines**
 
 Early-career cybersecurity professional specializing in Blue Team operations, threat detection, incident response, SIEM/SOAR integration, vulnerability management, and infrastructure automation.
 
