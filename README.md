@@ -110,10 +110,6 @@ The project focuses on Infrastructure & Identity Management, Security Deployment
 
 🔗 **Repository**: [View Project X: Enterprise Network Home Lab](https://github.com/LJPompey/Project-X-Enterprise-Network-Home-Lab)
 
-
-
-🔗 **Repository**: [View Real-World Malware Remediation](https://github.com/LJPompey/Real-World-Malware-Remediation-Incident-Response)
-
 ### 🖥️ Featured Cybersecurity & AI Security Projects
 
 ### 1. 💻 Project X: Enterprise Network Simulation & Threat Hunting
@@ -139,3 +135,5 @@ The project focuses on rapid network isolation, identity protection, manual thre
 **Key Areas:** Incident Response, Malware Analysis, Threat Hunting, Identity & Access Management (IAM), System Hardening
 
 **Tech Stack:** Windows Resource Protection (WRP/SFC), Command Line (CLI), Malwarebytes, Kaspersky, Windows OS
+
+🔗 **Repository**: [View Real-World Malware Remediation](https://github.com/LJPompey/Real-World-Malware-Remediation-Incident-Response)
