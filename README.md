@@ -22,7 +22,7 @@ My **core** objective: **To design and deploy the critical telemetry, alerting a
 
 🔐 Experienced with **Wazuh, Splunk, Security Onion, TheHive, Shuffle SOAR playbooks, Wireshark, Nessus (Tenable). OSForensics, Autopsy, Active Directory, AWS, Azure, Python, Powershell, Bash and Virtualization (VMWare/VirtualBox/Hyper-V).**
 
-🎓 B.A. in Computing & Informatics with a 3.9 GPA (Cybersecurity Concentration)
+🎓 B.A. in Computing & Informatics with a 3.9 GPA/Summa Cum Laude (Cybersecurity Concentration)
 📜 Certifications CompTIA Security+ & Google Cybersecurity Certificate.
 📍 Location: Willingboro, NJ (Greater Philadelphia Area) | Open to local, hybrid & remote roles.
 
